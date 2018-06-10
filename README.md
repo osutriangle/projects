@@ -16,3 +16,10 @@ tbd
 [Namecheap](http://namecheap.com): domain registrar and hosting
 
 [ngrok](https://ngrok.com/): quickly create a public URL for exposing local servers for free
+
+# tech
+[Python Flask](http://flask.pocoo.org/)
+
+[Electron](https://electronjs.org/)
+
+[jQuery](https://jquery.com/)
